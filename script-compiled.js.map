@@ -1,1 +1,0 @@
-{"version":3,"sources":["test.js"],"names":[],"mappings":";;;;AAAA;;;;IAEM,G;;;;;;;0BACE;AACJ,UAAI,MAAM,QAAV;AACA,oBAAM,GAAN;AACD","file":"script-compiled.js","sourcesContent":["import { foo as myFoo } from 'bar';\n\nclass Foo {\n  bar() {\n    let foo = 'broken';\n    myFoo(foo);\n  }\n}\n"]}
